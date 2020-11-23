@@ -1,6 +1,6 @@
-title: Script
+title: Script Fork
 summary: |-
-  Run any custom script you want. The power is in your hands. Use it wisely!
+  This is a forked version of the script step. 
 description: |-
 
   Run any custom script you want as part of your Bitrise build. All you need to do is specifying the script runner  
